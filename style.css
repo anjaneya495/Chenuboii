@@ -1,0 +1,93 @@
+.ps-1{
+    font-family: "Yatra One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+  }
+  .nav-black{
+    font-family: "Yatra One", system-ui;
+    font-weight: 500;
+    font-style:inherit ;
+    font-size: large;
+  }
+  .nav-pills .nav-link.active {
+    background-color: black; /* Change to black */
+    color: white; /* Optional: change text color to white for better contrast */
+  }
+  .lead {
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+  }
+  .text-body-emphasis1{
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 2px 2px 5px grey;
+  }
+  
+  .cat {
+      border-radius: 20px;
+      box-shadow: 5px 5px 10px black;
+}
+  .border-bottom{
+    display: flex;
+    justify-content: center;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .text-body-emphasis2{
+    font-family: "Yatra One", system-ui;
+    font-weight: 500;
+    font-style:inherit ;
+    font-size: large;
+  }
+.feature.col>p{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large ;
+  }
+  .projecth{
+    display: flex;
+    justify-content: center;
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .highlighted-text{
+    background-color: yellow;
+    padding: 1px;
+    border-radius: 7px;
+    
+      font-family: "Anton", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    
+  }
+  .lead2 {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: x-large;
+  }
+  .img-container {
+    max-width: 100%; /* Make sure the image is responsive */
+    height: auto;    /* Maintain aspect ratio */
+}
+ .spotify{
+  box-shadow: 10px 10px 20px black;
+ }
+ .heading{
+  font-family: "Signika", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+ }
+  
+  
